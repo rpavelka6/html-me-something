@@ -2,23 +2,34 @@
 <html>
   <head>
 	<style>
-	body {
-          	background-color: yellow;
-      	}
-      	p {
+	p {
 		margin-top: 100px;
-		margin-left: 75px;
-		margin-right: 75px;
-		font: 15px arial, sans-serif;
+		margin-left: 400px;
+		margin-right: 400px;
+		text-align: center;
+		font: 55px arial, sans-serif;
+		color: LawnGreen;
 	}
 	h1 {
-        	border: 2px solid green-yellow;
-		font-size: 36px;
+        	border: 2px solid GreenYellow;
+		font-size: 65px;
 	        text-align: center;
       	}
-      	h2 {
+      	h3 {
         	text-align: center;
+		color: Lime;
+		font-size: 55px;
       	}
+	#mainHeading {
+		color: Orchid;
+		font: 85px arial, sans-serif;
+	}
+	.center {
+		display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+  		width: 50%;
+	}	
 	.greenParagraph {
         	color: green;
       	}
