@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	body {
+          background-color: yellow;
+      	}
+      	p {
+		margin-top: 100px;
+		margin-left: 75px;
+		margin-right: 75px;
+		font: 15px arial, sans-serif;
+	}
+	h1 {
+        	font-size: 36px;
+	        text-align: center;
+      	}
+      	h2 {
+        	text-align: center;
+      	}
+  </head>
+  <body>
+    <header>
+
+
+    <main>
+
+    </main>
+
+  <footer>
+
+</footer>
+  </body>
+</html>
+
