@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
+	<style>
 	body {
-          background-color: yellow;
+          	background-color: yellow;
       	}
       	p {
 		margin-top: 100px;
@@ -11,12 +12,20 @@
 		font: 15px arial, sans-serif;
 	}
 	h1 {
-        	font-size: 36px;
+        	border: 2px solid green-yellow;
+		font-size: 36px;
 	        text-align: center;
       	}
       	h2 {
         	text-align: center;
       	}
+	.greenParagraph {
+        	color: green;
+      	}
+      	#purpleParagraph {
+        	color: purple;
+      	}
+	</style>
   </head>
   <body>
     <header>
